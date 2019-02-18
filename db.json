@@ -1,4 +1,5 @@
-[
+{
+"prods":[
 {
     "nomeProduto": "Pants1",
     "preco": 19.99
@@ -40,3 +41,4 @@
     "preco": 19.99
   }
 ]
+}
