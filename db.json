@@ -1,14 +1,17 @@
 {
 "prods":[
 {
+    "id": 1,
     "nomeProduto": "Pants1",
     "preco": 19.99
   },
   {
+    "id": 2,
     "nomeProduto": "Pants2",
     "preco": 19.99
   },
   {
+    "id": 3,
     "nomeProduto": "Pants3",
     "preco": 19.99
   }
