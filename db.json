@@ -5,21 +5,24 @@
     "nomeProduto": "Pants1",
     "preco": 19.99,
     "inPromocao": true,
-    "isNew": false
+    "isNew": false,
+    "tipo": "prodNormal"
   },
   {
     "id": 2,
     "nomeProduto": "Pants2",
     "preco": 19.99,
     "inPromocao": false,
-    "isNew": true
+    "isNew": true,
+    "tipo": "prodNormal"
   },
   {
     "id": 3,
     "nomeProduto": "Pants3",
     "preco": 19.99,
     "inPromocao": true,
-    "isNew": true
+    "isNew": true,
+    "tipo": "prodNormal"
   }
 ]
 }
